@@ -51,7 +51,8 @@ const urlsList = [
   'https://eand.co/*',
   'https://techuisite.com/*',
   'https://levelupprogramming.net/*',
-  'https://betterhumans.pub/*'
+  'https://betterhumans.pub/*',
+  'https://pub.towardsai.net/*'
 ];
 
 export default function intercept() {
